@@ -14,7 +14,7 @@ PRE-REQUSITES:
 Installing NLTK
 NLTK requires Python versions 2.7, 3.4, 3.5, 3.6, or 3.7
 
-*Mac/Unix¶
+*Mac/Unix
 Install NLTK: run sudo pip install -U nltk
 Install Numpy (optional): run sudo pip install -U numpy
 Test installation: run python then type import nltk
