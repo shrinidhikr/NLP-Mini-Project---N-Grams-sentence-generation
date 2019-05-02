@@ -1,5 +1,5 @@
 The project concentrates on generating sentences based on any given datasets which are paragraphs of related content using the concept of N-grams.
-
+Developed an N-Grams based modeling approach to generate a sequence of words to form a sentence using the probability of occurance of next word given the previous set of words.
 
 <----------TO RUN THE PROGRAM------------>
 
